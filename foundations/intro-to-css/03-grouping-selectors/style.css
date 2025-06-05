@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.yellow-mode {
+    background-color: lightyellow;
+}
